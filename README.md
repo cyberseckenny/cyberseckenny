@@ -1,4 +1,4 @@
-# About me
+# About me :wave:
 Hey, I'm [Kenny](https://kenny.rip).
 * Experienced Python and Java developer.
 * Basic knowledge with HTML, CSS and C.
@@ -10,5 +10,5 @@ Hey, I'm [Kenny](https://kenny.rip).
   <img align="center" src="https://vercel-deploy-github-readme-stats-2lml5twlb-cyberseckenny.vercel.app/api?username=cyberseckenny&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://vercel-deploy-github-readme-stats-2lml5twlb-cyberseckenny.vercel.app/api/top-langs/?username=cyberseckenny&layout=compact&exclude_repo=ghibli-generator,Estime,MCsniperPY-docs,smart-sniper,MCsniperPY,dotfiles,FlareSolverr,vercel-deploy-github-readme-stats)" />
+  <img align="center" src="https://vercel-deploy-github-readme-stats-2lml5twlb-cyberseckenny.vercel.app/api/top-langs/?username=cyberseckenny&layout=compact&exclude_repo=ghibli-generator,Estime,MCsniperPY-docs,smart-sniper,MCsniperPY,dotfiles,FlareSolverr,ercel-deploy-github-readme-stats)" />
 </a>
